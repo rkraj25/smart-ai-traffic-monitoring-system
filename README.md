@@ -116,7 +116,7 @@ streamlit run app.py
 
 
 <img src="image/5.png" width="400"></td>
-<td align="center"><b>Vehicle Class Distribution</b>
+
 
 
 

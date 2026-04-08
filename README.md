@@ -108,25 +108,31 @@ Developed a **real-time AI traffic monitoring dashboard** using **YOLOv8 + Strea
 
 ## 📸 Dashboard Preview
 
-## 📸 Dashboard Preview
 
-### Main Dashboard
-![Dashboard 1](images/1.png)
 
-### Traffic Analytics
-![Dashboard 2](images/2.png)
+<p align="center">
+  <img src="images/1.png" width="700"/>
+</p>
 
-### Vehicle Distribution
-![Dashboard 3](images/3.png)
+<p align="center">
+  <img src="images/2.png" width="700"/>
+</p>
 
-### Prediction View
-![Dashboard 4](images/4.png)
+<p align="center">
+  <img src="images/3.png" width="700"/>
+</p>
 
-### Detection Output
-![Dashboard 5](images/5.png)
+<p align="center">
+  <img src="images/4.png" width="700"/>
+</p>
 
-### Final Results
-![Dashboard 6](images/6.png)
+<p align="center">
+  <img src="images/5.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="images/6.png" width="700"/>
+</p>
 ## 👨‍💻 Author
 
 **Raj Karmankar**

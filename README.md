@@ -119,7 +119,7 @@ streamlit run app.py
 <td align="center"><b>Vehicle Class Distribution</b>
 
 
-<img src="image/6.png" width="400"></td>
+
 </tr>
 </table>
 

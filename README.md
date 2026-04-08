@@ -90,6 +90,39 @@ streamlit run app.py
 
 ## 📸 Output Dashboard
 
+<table style="width: 100%; border-collapse: collapse;">
+<tr>
+<td align="center"><b>Live Vehicle Detection</b>
+
+
+<img src="image/1.png" width="400"></td>
+<td align="center"><b>Traffic Prediction</b>
+
+
+<img src="image/2.png" width="400"></td>
+</tr>
+<tr>
+<td align="center"><b>Detection Accuracy</b>
+
+
+<img src="image/3.png" width="400"></td>
+<td align="center"><b>Traffic Density Analysis</b>
+
+
+<img src="image/4.png" width="400"></td>
+</tr>
+<tr>
+<td align="center"><b>Traffic Trend Graph</b>
+
+
+<img src="image/5.png" width="400"></td>
+<td align="center"><b>Vehicle Class Distribution</b>
+
+
+<img src="image/6.png" width="400"></td>
+</tr>
+</table>
+
 Features included:
 - live vehicle detection
 - prediction

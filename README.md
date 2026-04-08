@@ -25,10 +25,10 @@ This project performs **vehicle detection, tracking, traffic density estimation,
     - High
 
 - 📊 **Interactive Dashboard**
-  - Traffic trend graph  
-  - Vehicle class distribution  
-  - Unique vehicle count  
-  - Accuracy metrics  
+  - Traffic trend graph
+  - Vehicle class distribution
+  - Unique vehicle count
+  - Accuracy metrics
 
 - 💾 **Data Storage**
   - Stores traffic analytics using **SQLite**
@@ -49,3 +49,63 @@ This project performs **vehicle detection, tracking, traffic density estimation,
 ---
 
 ## 📂 Project Structure
+
+```text
+Traffic/
+│── app.py
+│── README.md
+│── requirements.txt
+│── traffic.db
+│── traffic_data.csv
+```
+
+---
+
+## 🚀 Installation & Run
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/smart-ai-traffic-monitoring-system.git
+cd smart-ai-traffic-monitoring-system
+```
+
+---
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+### 3. Run Project
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## 📸 Output Dashboard
+
+Features included:
+- live vehicle detection
+- prediction
+- accuracy
+- density
+- traffic graph
+- class distribution
+
+---
+
+## 🏆 Resume Highlight
+
+Developed a **real-time AI traffic monitoring dashboard** using **YOLOv8 + Streamlit**, featuring vehicle detection, tracking, traffic prediction, density analytics, and interactive visualization.
+
+---
+
+## 👨‍💻 Author
+
+**Raj Karmankar**

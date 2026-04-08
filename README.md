@@ -106,6 +106,9 @@ Developed a **real-time AI traffic monitoring dashboard** using **YOLOv8 + Strea
 
 ---
 
+## 📸 Dashboard Preview
+
+![Traffic Dashboard](images/1.png)
 ## 👨‍💻 Author
 
 **Raj Karmankar**
